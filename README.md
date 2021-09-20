@@ -1,1 +1,1 @@
-# CINTA-1
+# CINTA-1[迭代乘法代码](https://user-images.githubusercontent.com/62804262/133951610-fae293e7-f96d-443d-bf46-d9b43262a70f.png)![](https://user-images.githubusercontent.com/62804262/133951610-fae293e7-f96d-443d-bf46-d9b43262a70f.png)
